@@ -8,7 +8,7 @@ for meeting crud operations ; get,post,update,delete
 project run with jar so in spring tool suit run as spring boot app
 
 
-project run on http://localhost:8080/
+Firstly ;  create a db in mysql wich name is "company" 
 after run you can use postman for test crud operations
 
 Employee : get ->http://localhost:8080/employee
